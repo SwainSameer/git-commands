@@ -214,5 +214,5 @@ Answer: git cherrypic
 Note: git merge will merge all the commit to a particular branch
 
 _______________
-
+sameer
 
